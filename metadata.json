@@ -1,0 +1,8 @@
+
+{
+  "name": "VoxMind - AI Voice Memo & Smart Organizer",
+  "description": "A high-efficiency tool for capturing fragmented thoughts via voice, using AI to automatically categorize, summarize, and structure your inspirations, meetings, and study notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
